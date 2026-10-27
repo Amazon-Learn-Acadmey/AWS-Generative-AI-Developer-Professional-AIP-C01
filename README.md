@@ -74,6 +74,5 @@ This is a suggested learning progression, not an official prerequisite or mandat
 
 Combine official AWS exam preparation materials with practical exercises in foundation model integration, agentic AI, application testing, security, and optimization.
 
-- **Official AWS Resources**: Review the [AWS Certified Generative AI Developer - Professional page](https://aws.amazon.com/certification/certified-generative-ai-developer-professional/) and the [official AIP-C01 exam guide](https://docs.aws.amazon.com/aws-certification/latest/ai-professional-01/ai-professional-01.html).
 - **CertsGate**: Explore [AIP-C01 certification preparation resources](https://certsgate.com/exams/amazon/aip-c01) for supplementary study materials and practice questions.
 - **Practical AWS Study**: Use the [Amazon Bedrock documentation](https://docs.aws.amazon.com/bedrock/) to explore foundation model integration, knowledge bases, guardrails, and generative AI application development.
